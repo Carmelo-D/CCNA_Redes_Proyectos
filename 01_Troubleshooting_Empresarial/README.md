@@ -13,7 +13,7 @@ Este proyecto simula la **implementación, configuración y, crucialmente, la re
 ## 🌐 Topología y Requisitos
 
 ### Diagrama de Red
-[Pendiente: Subir y enlazar la imagen de la topología .png]
+![Topología de Red Empresarial Multi-Segmento](topología_Empresarial.jpg)
 
 ### Segmentos de Red Principales
 | Segmento (Color) | Red Principal | Tipo de Servicios |
